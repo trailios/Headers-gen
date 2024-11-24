@@ -110,7 +110,7 @@ class Headers:
         """
         Generates a User-Agent string based on the randomly selected browser and OS.
         """
-        # he amount of hate i will get for this :pray:
+        # the amount of hate i will get for this :pray:
         if (
             self.browser == "chrome"
             or self.browser == "chrome mac"
